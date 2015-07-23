@@ -1,5 +1,5 @@
 {
-  "name": "widgets-sample-01",
+  "name": "widget-communication",
   "version": "0.0.0",
   "description": "marko-widgets sample app",
   "main": "server.js",
@@ -8,14 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/raptorjs/raptor-samples.git"
+    "url": "https://github.com/marko-js-samples/widget-communication"
   },
   "author": "Patrick Steele-idem <pnidem@gmail.com>",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/raptorjs/raptor-samples/issues"
-  },
-  "homepage": "https://github.com/raptorjs/raptor-samples",
+  "homepage": "https://github.com/marko-js-samples/widget-communication",
   "dependencies": {
     "browser-refresh-taglib": "^1.0.0",
     "express": "^4.4.1",
